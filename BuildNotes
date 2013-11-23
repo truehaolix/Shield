@@ -6,3 +6,5 @@ gpio 按钮，led
   http://wiki.openwrt.org/doc/hardware/port.gpio
 中继设置：
   http://wiki.openwrt.org/doc/recipes/start
+交叉编译额外包：
+  http://wiki.openwrt.org/doc/devel/crosscompile
