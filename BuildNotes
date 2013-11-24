@@ -12,3 +12,4 @@ gpio 按钮，led
   http://www.zoublog.com/compile-customized-openwrt/
 网络：
   http://wiki.openwrt.org/doc/networking/network.interfaces
+  http://wiki.openwrt.org/doc/techref/netifd
