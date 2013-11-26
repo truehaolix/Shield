@@ -1,0 +1,2 @@
+oscam
+    sed -i "s/mips-linux-gcc/mipsel-openwrt-linux-uclibc-gcc/g" $(PKG_BUILD_DIR)/toolchains/toolchain-mips-dir825.cmake
